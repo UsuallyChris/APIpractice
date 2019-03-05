@@ -1,3 +1,5 @@
+// Following https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+
 // Create a request variable and assign a new XMLHttpRequest object to it
 let request = new XMLHttpRequest();
 
